@@ -1,0 +1,11 @@
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Rock_Paper_Scissors\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.csprojAssemblyReference.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Rock_Paper_Scissors\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Rock_Paper_Scissors\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.AssemblyInfoInputs.cache
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Rock_Paper_Scissors\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.AssemblyInfo.cs
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Rock_Paper_Scissors\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.deps.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Rock_Paper_Scissors\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.runtimeconfig.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Rock_Paper_Scissors\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.runtimeconfig.dev.json
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Rock_Paper_Scissors\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.dll
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Rock_Paper_Scissors\bin\Debug\netcoreapp2.2\Rock_Paper_Scissors.pdb
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Rock_Paper_Scissors\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.dll
+C:\Users\New Owner\Documents\PROGRAMMING\C#\Grand Circus\Labs\Rock_Paper_Scissors\obj\Debug\netcoreapp2.2\Rock_Paper_Scissors.pdb
